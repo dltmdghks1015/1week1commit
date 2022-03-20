@@ -1,6 +1,6 @@
 # <코딩습관 만들기 챌린지>
 
-## <span style="color:yellow">1주일에 한번 한줄 코딩해서 Commit하기!</span> 💫
+## <span style="color:yellow">1주일에 한번 한줄이상 코딩해서 Commit하기!</span> 💫
 
 <img width="14" alt="스크린샷 2022-03-13 오후 5 39 34" src="https://user-images.githubusercontent.com/92626903/158053968-b8f9df52-3e77-413b-89ad-48da260e245f.png">        << 본인 Contribution(활동상태) 세로줄에 한번씩 초록색 칸막이가 뜨는지 Check ✔️ 할 예정 ‼️</span>
 
@@ -15,5 +15,3 @@
 | 준기 | hjg7672 |
 | 경태 | morning9798 | 
 
-### +2022 프로그래밍 언어 점유율 
-<img width="530" alt="스크린샷 2022-03-13 오후 6 41 50" src="https://user-images.githubusercontent.com/92626903/158053854-962361ad-8eec-483d-bf25-44c017759701.png">
