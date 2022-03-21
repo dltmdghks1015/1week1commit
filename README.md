@@ -9,7 +9,7 @@
 
 | 참가자 | GitHub 아이디 |
 |:-----|:-----:|
-| 한수 | outwithansoo | 
+| 한수 | @outwithansoo | 
 | 승호 | codingceo |
 | 나연 | nyaeon | 
 | 준기 | hjg7672 |
