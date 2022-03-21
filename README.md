@@ -9,10 +9,10 @@
 
 | 참가자 | GitHub 아이디 |
 |:-----|:-----:|
-| 한수 | @outwithansoo | 
-| 승호 | codingceo |
-| 나연 | nyaeon | 
-| 준기 | hjg7672 |
-| 경태 | morning9798 | 
-| 승환 | dltmdghks1015 |
+| 한수 | [outwithansoo](https://github.com/outwithansoo) | 
+| 승호 | [codingceo](https://github.com/codingceo) |
+| 나연 | [nyaeon](https://github.com/nyaeon) | 
+| 준기 | [hjg7672](https://github.com/hjg7672) |
+| 경태 | [morning9798](https://github.com/morning9798) | 
+| 승환 | [dltmdghks1015](https://github.com/dltmdghks1015) |
 
